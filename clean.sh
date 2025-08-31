@@ -1,6 +1,7 @@
 #!/bin/bash
 
 #sudo mn -c
+# #sudo mn -c
 
 docker stop $(docker ps -aq)
 
